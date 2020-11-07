@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_PROJECTVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_PROJECTVersionString[];
+FOUNDATION_EXPORT double Pods_WYPayBusinessModuleVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_WYPayBusinessModuleVersionString[];
 
